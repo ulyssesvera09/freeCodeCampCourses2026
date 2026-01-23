@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+        <h1>The last three videos I liked</h1>
+        <p>I spend a lot of time watching videos about topics I am interested in.</p>
+        <section>
+            <h2>Systemd Explained</h2>
+            <p>The first one I would like to talk about one from a channel I found last year as I was gaining information on how to migrate from windows to linux. I think, I just like the way this guy explains all topics related to linux distributions and, concretly in this video, some commands to type in the terminal.</p>
+        <iframe width="400" height="250" src="https://www.youtube.com/embed/Kzpm-rGAXos?si=FbpjRAH-RdB4y1so" title="Systemd Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </section>
+        <section>
+            <h2>Missing Semester</h2>
+            <p>Last year, I found out these series of videos where they explain how to effectivly use the command line terminal. Thanks to these guys and the community out there I have been able to learn a lot of things.</p>
+            <iframe width="400" height="250" src="https://www.youtube.com/embed/fn1n84wpwOE?si=07CtafkuUAw2e9Ce" title="Missing Semester" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </section>
+        <section>
+            <h2>Pumas vs Mazatlan</h2>
+            <p>Watching football is one of my favorite activities, even though it is a terribly timeconsuming activity. Nevertheless, I find especially important to support women in fields where men are more relevant.</p>
+            <iframe width="400" height="250" src="https://www.youtube.com/embed/uynGJWD7C2o?si=UzgXOfTfiYR9yze2" title="Pumas vs Mazatlan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </section>
+    </main>
+</body>
+
+</html>
