@@ -1,6 +1,6 @@
-* {
+body {
   background: rosybrown;
-  font: "Arial", sans-serif;
+  font-family: "Arial", sans-serif;
 }
 
 .business-card {
@@ -20,8 +20,8 @@ p {
   margin: 5px;
 }
 
- a:link {
-      text-decoration: none;
+a {
+  text-decoration: none;
 }
 
 img {
