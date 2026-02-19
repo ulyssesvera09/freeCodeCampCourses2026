@@ -1,0 +1,37 @@
+body {
+  background-color: #cbdf90; 
+}
+
+h1 {
+  text-align: center;
+}
+
+.todo-list {
+  list-style-position: inside;
+  line-height: 2;
+}
+
+a:link {
+  color: blue;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  color: #1b4079;
+}
+
+a:active {
+  color: #e69dfb;
+}
+
+a:focus {
+  outline: 2px solid blue ;
+}
+
+a {
+  text-decoration: none;
+}
+
